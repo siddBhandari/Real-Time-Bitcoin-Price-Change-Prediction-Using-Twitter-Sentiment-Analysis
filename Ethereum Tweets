@@ -1,1 +1,5 @@
-
+## DATASET
+Change in workflow:
+Instead of fetching the data for analysis from Titter API, we will be creating the ML Model on the static data and then make it real-time after the model is ready.
+Ethereum Tweets Dataset:
+https://www.kaggle.com/mathurinache/ethereum-tweets
