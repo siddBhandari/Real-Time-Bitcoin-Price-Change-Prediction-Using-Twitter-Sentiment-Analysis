@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1yVivp0uxdBdlU0t3RRGqGeP2Q3vqh3gp
 """
 
-!pip install vaderSentiment
-!pip install -q transformers
+# !pip install vaderSentiment
+# !pip install -q transformers
 
 import pandas as pd
 import numpy as np
