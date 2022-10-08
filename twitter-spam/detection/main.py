@@ -6,7 +6,7 @@ from nltk.corpus import wordnet
 from nltk.stem import WordNetLemmatizer
 
 # input1 = "You've Won! Winning an unexpected prize sounds great, in theory"
-df = pd.read_csv('/home/devilsaint/Documents/Omkar/Pipeline/SpamAndHam.csv')
+df = pd.read_csv('SpamAndHam.csv')
 
 import string 
 from nltk.corpus import stopwords
